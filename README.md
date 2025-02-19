@@ -14,3 +14,15 @@ Looking for junior data analyst position in healthcare indstury
 - sadlfksdafkljdsf
 - sdal;fksda;ljfds
 - asd;lkfsadfjl;sdafj
+
+# Skills
+
+- deigning
+- coding
+- data visualizing
+
+# Softwares
+
+- Autocad
+- Archicad
+- AI PS Lumion
