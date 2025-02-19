@@ -6,9 +6,8 @@ Looking for junior data analyst position in healthcare indstury
 
 # Education
 
-- asdfsfasf
-- asfsdfsadf
-- asdfsadfsdf
+- TungHai University
+- major in Architecture 
 
 # Experience
 
