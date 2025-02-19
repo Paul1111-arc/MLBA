@@ -1,4 +1,4 @@
-# Machine Learning for Business Analytics
+# Paul Wu
 
 # Purpose
 
