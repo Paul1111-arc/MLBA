@@ -1,5 +1,5 @@
 # Paul Wu
-
+![](Original_Doge_meme.jpg)
 # Purpose
 
 Looking for junior data analyst position in healthcare indstury
