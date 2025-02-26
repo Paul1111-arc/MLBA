@@ -2,7 +2,7 @@
 ![](Original_Doge_meme.jpg)
 # Purpose
 
-Looking for junior data analyst position in architeucter indstury
+Looking for junior data analyst position in architecture indstury
 
 # Education
 
