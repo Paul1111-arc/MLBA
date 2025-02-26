@@ -2,7 +2,7 @@
 ![](Original_Doge_meme.jpg)
 # Purpose
 
-Looking for junior data analyst position in healthcare indstury
+Looking for junior data analyst position in architeucter indstury
 
 # Education
 
@@ -11,9 +11,7 @@ Looking for junior data analyst position in healthcare indstury
 
 # Experience
 
-- sadlfksdafkljdsf
-- sdal;fksda;ljfds
-- asd;lkfsadfjl;sdafj
+- champion of the president cup of karate 
 
 # Skills
 
